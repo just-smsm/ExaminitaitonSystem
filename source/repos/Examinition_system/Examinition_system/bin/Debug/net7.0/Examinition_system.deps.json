@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Examinition_system/1.0.0": {
+        "runtime": {
+          "Examinition_system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examinition_system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

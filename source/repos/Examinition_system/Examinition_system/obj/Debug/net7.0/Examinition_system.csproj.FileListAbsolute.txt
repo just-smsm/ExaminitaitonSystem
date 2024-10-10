@@ -1,0 +1,14 @@
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\Examinition_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\Examinition_system.AssemblyInfoInputs.cache
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\Examinition_system.AssemblyInfo.cs
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\Examinition_system.csproj.CoreCompileInputs.cache
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\bin\Debug\net7.0\Examinition_system.exe
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\bin\Debug\net7.0\Examinition_system.deps.json
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\bin\Debug\net7.0\Examinition_system.runtimeconfig.json
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\bin\Debug\net7.0\Examinition_system.dll
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\bin\Debug\net7.0\Examinition_system.pdb
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\Examinition_system.dll
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\refint\Examinition_system.dll
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\Examinition_system.pdb
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\Examinition_system.genruntimeconfig.cache
+C:\Users\alQsa\source\repos\Examinition_system\Examinition_system\obj\Debug\net7.0\ref\Examinition_system.dll
